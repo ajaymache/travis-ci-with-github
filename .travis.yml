@@ -4,4 +4,4 @@ python:
     - "3.5"
     
 script:
-    - arithmetic
+    - python arithmetic.py
