@@ -11,3 +11,4 @@
  </p>
  
 ---
+[![Packagist](https://img.shields.io/packagist/v/ajaymache/travis-ci-with-github.svg)]()
