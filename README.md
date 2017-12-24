@@ -11,13 +11,3 @@
  </p>
  
 ---
- 
-<center>
- <table>
-    <tr>
-      <td>Jill</td>
-      <td>Smith</td>
-      <td>50</td>
-    </tr>
- </table>
-</center>
