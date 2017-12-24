@@ -1,6 +1,6 @@
 <h1 align="center">travis-ci-with-github</h1>
 
-<p align="center"><img src="/misc/travis-ci.gif"><h1>+</h1><img src="/misc/github.gif" height=325 width=375></p>
+<p align="center"><img src="/misc/travis-ci.gif"><img src="/misc/github.gif" height=325 width=375></p>
 
 ---
 
