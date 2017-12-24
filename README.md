@@ -17,4 +17,11 @@ This repository aims at getting started with **[Travis CI](https://travis-ci.org
 
 ### What is Travis CI?
 Travis CI is a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub.
-Open source projects may be tested at no charge via [https://travis-ci.org](https://travis-ci.org). Private projects may be tested at [https://travis-ci.com](https://travis-ci.com) on a fee basis. TravisPro provides custom deployments of a proprietary version on the customer's own hardware. (_**Source**_ : [Wikipedia](https://en.wikipedia.org/wiki/Travis_CI))
+Open source projects may be tested at no charge via [https://travis-ci.org](https://travis-ci.org). Private projects may be tested at [https://travis-ci.com](https://travis-ci.com) on a fee basis. TravisPro provides custom deployments of a proprietary version on the customer's own hardware. (**Source** - [Wikipedia](https://en.wikipedia.org/wiki/Travis_CI))
+
+### Getting started
+- The folder **pkg** contains a arithmetic package which has been created for demonstration puposes. The folder **pkg** has 2 sub-folders **arithmetic** and **testing** with files **arithmetic.py** and **testing.py**.
+- The **arithmetic.py** file is a simple module to do arithmetic operations like addition, subtraction, multiplication and division. The **testing.py** file is another simple module which runs some testcases on the package.
+- To successfully integrate **Travis CI** with your **Github** repository you will need:
+
+1.  
