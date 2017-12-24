@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/travis/ajaymache/travis-ci-with-github.svg">&nbsp;&nbsp;&nbsp;
+  <a href="https://travis-ci.org/ajaymache/travis-ci-with-github"><img src="https://img.shields.io/travis/ajaymache/travis-ci-with-github.svg">&nbsp;&nbsp;&nbsp;</a>
   <img src="https://img.shields.io/github/license/ajaymache/travis-ci-with-github.svg">&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/issues/ajaymache/travis-ci-with-github.svg?colorB=DAA520">&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/languages/count/ajaymache/travis-ci-with-github.svg?colorB=ff5733">&nbsp;&nbsp;&nbsp;
@@ -11,6 +11,13 @@
 </p>
 
 ---
+
+
+[![Travis](https://img.shields.io/travis/ajaymache/travis-ci-with-github.svg)](https://travis-ci.org/ajaymache/travis-ci-with-github)&nbsp;&nbsp;
+[![license](https://img.shields.io/github/license/ajaymache/travis-ci-with-github.svg)](https://opensource.org/licenses/MIT)&nbsp;&nbsp;
+[![GitHub issues](https://img.shields.io/github/issues/ajaymache/travis-ci-with-github.svg?colorB=DAA520)](https://github.com/ajaymache/travis-ci-with-github/issues)&nbsp;&nbsp;
+[![GitHub language count](https://img.shields.io/github/languages/count/ajaymache/travis-ci-with-github.svg?colorB=ff5733)](https://github.com/ajaymache/travis-ci-with-github)&nbsp;&nbsp;
+![Contributions](/shields/contributions.svg)
 
 ### About
 This repository aims at getting started with **[Travis CI](https://travis-ci.org)** for your **[Github](https://github.com)** repositories. For demonstration purposes a very simple package is created with some test cases to explain how to integrate **Travis CI** for continous integration with **Github**.
