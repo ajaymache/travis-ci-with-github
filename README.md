@@ -23,5 +23,4 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 - The folder **pkg** contains a arithmetic package which has been created for demonstration puposes. The folder **pkg** has 2 sub-folders **arithmetic** and **testing** with files **arithmetic.py** and **testing.py**.
 - The **arithmetic.py** file is a simple module to do arithmetic operations like addition, subtraction, multiplication and division. The **testing.py** file is another simple module which runs some testcases on the package.
 - To successfully integrate **Travis CI** with your **Github** repository you will need:
-  
-  1.  
+  1. 
