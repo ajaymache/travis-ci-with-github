@@ -6,4 +6,4 @@ python:
 install:
     - pip install -r requirements.txt
 script:
-    - mypy src/arithmetic.py
+    - mypy pkg/arithmetic/arithmetic.py
