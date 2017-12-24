@@ -12,5 +12,5 @@ class arithmetic:
     def mul(self, x: int, y: int) -> int:
         return x * y
     
-    def div(self, x: int, y: int) -> int:
+    def div(self, x: int, y: int) -> float:
         return x / y
