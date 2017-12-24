@@ -1,5 +1,7 @@
 <h1 align="center">travis-ci-with-github</h1>
 
+<p align="center"><img src="/misc/travis-ci.gif"></p>
+
 ---
 
 <p align="center">
