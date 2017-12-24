@@ -1,16 +1,6 @@
 <p align="center"><img src="/misc/travis-ci.gif"><img src="/misc/github.gif" height=325 width=375></p>
 
 ---
-
-<p align="center">
-  <a href="https://travis-ci.org/ajaymache/travis-ci-with-github"><img src="https://img.shields.io/travis/ajaymache/travis-ci-with-github.svg">&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/ajaymache/travis-ci-with-github.svg">&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://github.com/ajaymache/travis-ci-with-github/issues"><img src="https://img.shields.io/github/issues/ajaymache/travis-ci-with-github.svg?colorB=DAA520">&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://github.com/ajaymache/travis-ci-with-github"><img src="https://img.shields.io/github/languages/count/ajaymache/travis-ci-with-github.svg?colorB=ff5733">&nbsp;&nbsp;&nbsp;</a>
-  <a href="/shields/contributions.svg"><img src="/shields/contributions.svg"></a>
-</p>
-
----
  
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Travis](https://img.shields.io/travis/ajaymache/travis-ci-with-github.svg)](https://travis-ci.org/ajaymache/travis-ci-with-github)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![license](https://img.shields.io/github/license/ajaymache/travis-ci-with-github.svg)](https://opensource.org/licenses/MIT)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub issues](https://img.shields.io/github/issues/ajaymache/travis-ci-with-github.svg?colorB=DAA520)](https://github.com/ajaymache/travis-ci-with-github/issues)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub language count](https://img.shields.io/github/languages/count/ajaymache/travis-ci-with-github.svg?colorB=ff5733)](https://github.com/ajaymache/travis-ci-with-github)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Contributions](/shields/contributions.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |-------|---------|--------|------|--------|
