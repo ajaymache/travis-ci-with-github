@@ -12,7 +12,9 @@
 
 ---
 
-## About
+### About
 This repository aims at getting started with **[Travis CI](https://travis-ci.org)** for your **[Github](https://github.com)** repositories. For demonstration purposes a very simple package is created with some test cases to explain how to integrate **Travis CI** for continous integration with **Github**.
 
-## 
+### What is Travis CI?
+Travis CI is a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub.
+Open source projects may be tested at no charge via [https://travis-ci.org](https://travis-ci.org). Private projects may be tested at [https://travis-ci.com](https://travis-ci.com) on a fee basis. TravisPro provides custom deployments of a proprietary version on the customer's own hardware. (_**Source**_ : [Wikipedia](https://en.wikipedia.org/wiki/Travis_CI))
