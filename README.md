@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://travis-ci.org/ajaymache/travis-ci-with-github"><img src="https://img.shields.io/travis/ajaymache/travis-ci-with-github.svg">&nbsp;&nbsp;&nbsp;</a>
-  <img src="https://img.shields.io/github/license/ajaymache/travis-ci-with-github.svg">&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/issues/ajaymache/travis-ci-with-github.svg?colorB=DAA520">&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/languages/count/ajaymache/travis-ci-with-github.svg?colorB=ff5733">&nbsp;&nbsp;&nbsp;
-  <img src="/shields/contributions.svg">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/ajaymache/travis-ci-with-github.svg">&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://github.com/ajaymache/travis-ci-with-github/issues"><img src="https://img.shields.io/github/issues/ajaymache/travis-ci-with-github.svg?colorB=DAA520">&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://github.com/ajaymache/travis-ci-with-github"><img src="https://img.shields.io/github/languages/count/ajaymache/travis-ci-with-github.svg?colorB=ff5733">&nbsp;&nbsp;&nbsp;</a>
+  <a href="/shields/contributions.svg"><img src="/shields/contributions.svg"></a>
 </p>
 
 ---
