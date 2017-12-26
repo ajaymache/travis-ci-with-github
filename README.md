@@ -39,6 +39,6 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 
 ### Step 3: Activate github repository
 - After you login, navigate to the left of your console as shown below and click on the [**+**](###step-3-activate-github-repository) sign as shown below
-- After clicking the **[+]()** sign you will be able to see all your public repositories as shown below
+- After clicking the **[+](###step-3-activate-github-repository)** sign you will be able to see all your public repositories as shown below
 - Activate your repository for integration with Travis CI by turning on the button next to your repository as shown below
 
