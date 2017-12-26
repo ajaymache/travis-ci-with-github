@@ -42,3 +42,4 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 - After clicking the **[+](#step-3-activate-github-repository)** sign you will be able to see all your public repositories as shown below
 - Activate your repository for integration with Travis CI by turning on the button next to your repository as shown below
 
+### Step 4: Trigger the build
