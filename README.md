@@ -37,6 +37,8 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 ### Step 2: Sign In with your Github account
 - Fairly straight forward, go to [https://travis-ci.org](https://travis-ci.org) and login with your Github credentials as shown below
 
+![Sign In with your github credentials](/misc/Screen Shot 2017-12-25 at 10.36.36 PM.png)
+
 ### Step 3: Activate github repository
 - After you login, navigate to the left of your console as shown below and click on the [**+**](#step-3-activate-github-repository) sign as shown below
 - After clicking the **[+](#step-3-activate-github-repository)** sign you will be able to see all your public repositories as shown below
