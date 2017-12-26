@@ -23,4 +23,8 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
     2. Sign In with your Github account on [https://travis-ci.org](https://travis-ci.org)
     3. Activate the github repository from the Travis CI console for which you want to do the integration
     4. Trigger the build by doing a ```push``` to the repository
-    5. Finally check status on Travis CI console to verify if your build passed or failed 
+    5. Finally check status on Travis CI console to verify if your build passed or failed
+    
+### Step 1: Creating or identifying github repository
+- Create a github repository like this one or identify the github repository you would like to integrate with **Travis CI**.
+- Note that the this repository should be public and not private.
