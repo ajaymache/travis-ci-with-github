@@ -20,7 +20,7 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 - The **arithmetic.py** file is a simple module to do arithmetic operations like addition, subtraction, multiplication and division. The **testing.py** file is another simple module which runs some testcases on the package.
 - To successfully integrate **Travis CI** with your **Github** repository you will need:
 
-  **_Step 1:_** Github repository for which you want to integrate Travis CI with.
+  **_Step 1:_** Github repository for which you want to integrate Travis CI with
   
   **_Step 2:_** In with your Github account on [https://travis-ci.org](https://travis-ci.org)
     
