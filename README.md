@@ -78,3 +78,7 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 - You can also verify if your build passed or failed by looking at the **_build batch_** on the top of the console as shown below:
 
 <p align="center"><img alt="see the logs" src="/misc/batch.png" height=90% width=90%></p>
+
+
+
+#### Thanks for taking time :alarm_clock: to stop by and please feel free to star :star:, fork :wrench: the repository or report any bug :beetle: in the code, in the issues section of the repository. :smiley:
