@@ -51,3 +51,8 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 <p align="center"><img alt="turn on the activate button" src="/misc/activate.png" height=80% width=80%></p>
 
 ### Step 4: Trigger the build
+- This is the most important step of all the steps. You will need a **.travis.yml** file to trigger the **Travis CI** build.
+- A **.travis.yml** or a [_**YAML**](https://en.wikipedia.org/wiki/YAML)_ is a simple human readible data serialization configuration file which tells Travis CI what to do once you trigger the build. For example like the one shown below:
+
+  ```YAML
+  
