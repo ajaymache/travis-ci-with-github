@@ -39,7 +39,7 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 
 <p align="center"><img alt="Sign In with your github credentials" src="/misc/sign-in.png" height=90% width=90%></p>
 
-### Step 3: Activate github repository
+### Step 3: Activate github repository &nbsp; :white_check_mark:
 - After you login, navigate to the left of your console as shown below and click on the [**+**](#step-3-activate-github-repository) sign as shown below:
 
 <p align="center"><img alt="Click the '+' sign" src="/misc/repos.png"></p>
