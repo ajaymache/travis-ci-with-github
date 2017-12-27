@@ -70,4 +70,7 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
       script:
           - mypy pkg/arithmetic/arithmetic.py
    ```
+### Step 5: Status check
 - **Travis CI** will start start the build by executing the steps as outlined in the **.travis.yml**, you can also verify this by checking the logs in the console after logging into your **Travis CI** account.
+- You can also verify if your build passed or failed by looking at the build batch on the top of the console as shown below:
+
