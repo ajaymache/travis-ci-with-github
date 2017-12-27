@@ -70,3 +70,4 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
       script:
           - mypy pkg/arithmetic/arithmetic.py
    ```
+- **Travis CI** will start start the build by executing the steps as outlined in the **.travis.yml**, you can also verify this by checking the logs in the console after logging into your **Travis CI** account.
