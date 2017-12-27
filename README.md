@@ -73,8 +73,8 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 ### Step 5: Status check
 - **Travis CI** will start start the build by executing the steps as outlined in the **.travis.yml**, you can also verify this by checking the logs in the console after logging into your **Travis CI** account as shown below:
 
-<p align="center"><img alt="see the logs" src="/misc/logs.png" height=80% width=80%></p>
+<p align="center"><img alt="see the logs" src="/misc/logs.png" height=100% width=100%></p>
 
 - You can also verify if your build passed or failed by looking at the build batch on the top of the console as shown below:
 
-<p align="center"><img alt="see the logs" src="/misc/batch.png" height=80% width=80%></p>
+<p align="center"><img alt="see the logs" src="/misc/batch.png" height=100% width=100%></p>
