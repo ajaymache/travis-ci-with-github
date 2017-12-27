@@ -34,7 +34,7 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 - Create a github repository like this one or identify the github repository you would like to integrate with **Travis CI**.
 - :warning: Note that the this repository should be public and not private.
 
-### Step 2: Sign In with your Github account
+### Step 2: Sign In with your Github account &nbsp; :closed_lock_with_key:
 - Fairly straight forward, go to [https://travis-ci.org](https://travis-ci.org) and login with your Github credentials as shown below:
 
 <p align="center"><img alt="Sign In with your github credentials" src="/misc/sign-in.png" height=90% width=90%></p>
@@ -50,7 +50,7 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 
 <p align="center"><img alt="turn on the activate button" src="/misc/activate.png" height=80% width=80%></p>
 
-### Step 4: Trigger the build
+### Step 4: Trigger the build &nbsp; :construction:
 - This is the most important step of all the steps. You will need a **.travis.yml** file to trigger the **Travis CI** build.
 - A **.travis.yml** or a [**_YAML_**](https://en.wikipedia.org/wiki/YAML) is a simple human readible data serialization configuration file which tells Travis CI what to do once you trigger the build. For example like the one shown below:
 
@@ -70,7 +70,7 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
       script:
           - mypy pkg/arithmetic/arithmetic.py
    ```
-### Step 5: Status check
+### Step 5: Status check &nbsp; :checkered_flag:
 - **Travis CI** will start start the build by executing the steps as outlined in the **.travis.yml**, you can also verify this by checking the logs in the console after logging into your **Travis CI** account as shown below:
 
 <p align="center"><img alt="see the logs" src="/misc/logs.png" height=90% width=90%></p>
