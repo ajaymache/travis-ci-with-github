@@ -55,13 +55,18 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
 - A **.travis.yml** or a [**_YAML_**](https://en.wikipedia.org/wiki/YAML) is a simple human readible data serialization configuration file which tells Travis CI what to do once you trigger the build. For example like the one shown below:
 
    ```YAML
+      #declaring the type of language
       language: python
-
+      
+      #declaring the versions of the language specified above  you to want the test the code against
       python:
           - "3.5"
-    
+      
+      #before executing the code installing the dependencies if any
       install:
           - pip install -r requirements.txt
+      
+      #running the desired code file for testing your code
       script:
           - mypy pkg/arithmetic/arithmetic.py
    ```
