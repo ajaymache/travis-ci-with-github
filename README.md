@@ -30,7 +30,7 @@ Open source projects may be tested at no charge via [https://travis-ci.org](http
     
   **_Step 5:_** Finally check status on Travis CI console to verify if your build passed or failed
     
-### Step 1: Creating or identifying github repository
+### Step 1: Creating or identifying github repository <img src="/misc/github.gif" height=4% width=4%>
 - Create a github repository like this one or identify the github repository you would like to integrate with **Travis CI**.
 - :warning: Note that the this repository should be public and not private.
 
